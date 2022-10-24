@@ -1,12 +1,14 @@
 {
-  "description": "Hi! I'm Hycord!",
-  "repo": "https://github.com/hycord/hycord.github.io",
+  "description": "Used to host my portfolio website",
   "owner": {
     "username": "hycord",
-    "email": "hycord@duck.com",
+    "email": "hycord@hycordia.com",
     "twitter": "IGNHycord"
   },
   "record": {
-    "CNAME": "hycord.github.io"
+    "TXT": "google-site-verification=2Su9ioVjd-qDWM_fmErrKywsc3kOhmR5E0-5X7GLNRE",
+    "A": [
+      "34.68.213.248"
+    ]
   }
 }
